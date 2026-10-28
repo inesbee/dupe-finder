@@ -30,13 +30,6 @@ pip install -r requirements.txt
 python app.py
 ```
 Then open http://127.0.0.1:7860 in your browser. `product_info.csv` must be in the same folder.
-
-**Option C: permanent online version (Hugging Face Spaces)**
-
-Create a free Space at [huggingface.co/new-space](https://huggingface.co/new-space), choose
-the **Gradio** SDK, and upload `app.py`, `dupe_engine.py`, `requirements.txt` and
-`product_info.csv`. The Space builds itself and gives a permanent public link.
-
 ---
 
 ## 2. User guide
